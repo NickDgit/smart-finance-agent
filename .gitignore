@@ -1,0 +1,16 @@
+# Περιβάλλον Python (Virtual Environment)
+.venv/
+venv/
+env/
+
+# API Keys και ευαίσθητα δεδομένα
+.env
+
+# Προσωρινά αρχεία Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Αρχεία του Editor
+.idea/
+.vscode/
