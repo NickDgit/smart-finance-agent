@@ -17,7 +17,7 @@
 
 **1. Κλωνοποίηση του repository:**
 ```bash
-git clone https://github.com/yourusername/ai-financial-advisor.git
+git clone https://github.com/NickDgit/ai-financial-advisor.git
 cd ai-financial-advisor 
 ```
 
